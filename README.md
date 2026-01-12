@@ -11,5 +11,6 @@ The study estabilihes quantitative Earth-Moon analogs between the Kutch Basin (I
 A broader frontier in remote sensing-based lithological analysis lies in comparative planetology, which extends terrestrial geological principles to other planetary bodies. This discipline facilitates the interpretation of in planetary parameters such as gravity, atmospheric composition, and geological evolution. Although orbital and rover missions have provided high-resolution surface imaging of terrestrial planets like Mars, and the Moon, subsurface knowledge remains limited.
 
 ***Industry Framed***
+
 This study demonstrate that Sentinel-1 SAR texture metrics (GLCM contrast, homogeneity, mean) together with Sentinel-2 multispectral inputs can produce robust, interpretable lithological discriminate in semi-arid terrains. By combining classification confidence maps, feature-level fingerprints, and a simple priority scoring scheme, the workflow supports practical, industry-relevant tasks such as target prioritization for mineral exploration and operational mapping under varaible atmosphere conditions. Future works will extend the method to spectral M3 mapping for the lunar case and validate transferability through domain-adaptation experiments and in-situ sampling.
 
