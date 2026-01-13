@@ -2,9 +2,12 @@
 
 This repository presents a physics-driven, cross-planetary lithology framework integrating:
 
--Sentinel-1 SAR texture analysis
--Sentinel-2 Optical & TCWV analysis
--Lunar M3 spectral and geomorphometric features
+-Sentinel-1 SAR texture analysis.
+
+-Sentinel-2 Optical & TCWV analysis.
+
+-Lunar M3 spectral and geomorphometric features.
+
 
 The study estabilihes quantitative Earth-Moon analogs between the Kutch Basin (India) and Marius Hills lunar mare basalts, demonstrating the transferability of radar and spectral lithological fingerprints across planetary environments.
 
