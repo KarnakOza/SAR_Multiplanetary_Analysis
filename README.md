@@ -1,5 +1,10 @@
 ## Multisensor Remote Sensing: From terrestrial to Planetary Applications
 
+![SAR](https://img.shields.io/badge/SAR-Sentinel--1-orange)
+![Multi-Planetary](https://img.shields.io/badge/Multi-Planetary-blue)
+![OpenScience](https://img.shields.io/badge/Open-Science-green)
+![Optical](https://img.shields.io/badge/Optical/MSI-Sentinel--2-orange)
+
 This repository presents a physics-driven, cross-planetary lithology framework integrating:
 
 -Sentinel-1 SAR texture analysis.
