@@ -8,6 +8,11 @@ This repository presents a physics-driven, cross-planetary lithology framework i
 
 -Lunar M3 spectral and geomorphometric features.
 
+-A repository documenting my workflow for acessing, processing, and analyzing Chandrayaan-1 M3 Level 1B data from the NASA PDS.
+
+## Project Overview
+This project involves working with hyperspectral image cubes from the moon mineralogy mapper (M3) instrument aboard the Chandryaan-1 mission. The goal is to establish a pipeline to read PDS '.img' files, perform basic geometric correction, and extract spectral profiles.
+
 
 The study estabilihes quantitative Earth-Moon analogs between the Kutch Basin (India) and Marius Hills lunar mare basalts, demonstrating the transferability of radar and spectral lithological fingerprints across planetary environments.
 
