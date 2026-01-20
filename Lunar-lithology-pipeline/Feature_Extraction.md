@@ -9,3 +9,11 @@
 - CPR (circular polarization ratio) for roughness
 - backscatter coefficients at multiple incidence anlges
 - polarimetric decompositions (α-entropy-anisotropy)
+
+
+**Morphometric features**
+
+- Slope, curvature, roughness from DEMs
+- Crater density and degradation state
+- Rock abundance models
+
