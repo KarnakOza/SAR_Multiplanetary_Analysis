@@ -5,9 +5,9 @@ Lunar geology mapping faces unique challenges: extreme illumination conditions, 
 - Standaidizing lunar data processing workflows
 - Automating feature extraction across multiple data sources
 - Providing reproducible machine learning approaches for lithology classificaiton.
-- 
+ 
 
-
+![image alt](https://github.com/KarnakOza/SAR_Multiplanetary_Analysis/blob/05ef4e460877d60c3b5556172fdd3074a127e33f/Figure/Lunar_marius_hill.png)
 
 
 
