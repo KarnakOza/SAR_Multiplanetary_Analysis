@@ -18,12 +18,14 @@ This repository presents a physics-driven, cross-planetary lithology framework i
 ## Project Overview
 This project involves working with hyperspectral image cubes from the moon mineralogy mapper (M3) instrument aboard the Chandryaan-1 mission. The goal is to establish a pipeline to read PDS '.img' files, perform basic geometric correction, and extract spectral profiles.
 
+![image alt](https://github.com/KarnakOza/SAR_Multiplanetary_Analysis/blob/28d0137c252bc2f63d0828a88d5d18978c4b5343/Figure/Aspect.png)
 
 The study estabilihes quantitative Earth-Moon analogs between the Kutch Basin (India) and Marius Hills lunar mare basalts, demonstrating the transferability of radar and spectral lithological fingerprints across planetary environments.
 
 A broader frontier in remote sensing-based lithological analysis lies in comparative planetology, which extends terrestrial geological principles to other planetary bodies. This discipline facilitates the interpretation of in planetary parameters such as gravity, atmospheric composition, and geological evolution. Although orbital and rover missions have provided high-resolution surface imaging of terrestrial planets like Mars, and the Moon, subsurface knowledge remains limited.
 
-***Industry Framed***
+
+**Industry Application**
 
 This study demonstrate that Sentinel-1 SAR texture metrics (GLCM contrast, homogeneity, mean) together with Sentinel-2 multispectral inputs can produce robust, interpretable lithological discriminate in semi-arid terrains. By combining classification confidence maps, feature-level fingerprints, and a simple priority scoring scheme, the workflow supports practical, industry-relevant tasks such as target prioritization for mineral exploration and operational mapping under varaible atmosphere conditions. Future works will extend the method to spectral M3 mapping for the lunar case and validate transferability through domain-adaptation experiments and in-situ sampling.
 
